@@ -1,0 +1,26 @@
+_repo: KathrinaA-Poem_63423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holland, J. G. (Josiah Gilbert)
+    aliases:
+    - Holland, Josiah Gilbert
+    - Titcomb, Timothy
+    birthdate: 1819
+    deathdate: 1881
+    gutenberg_agent_id: '2046'
+    url: http://www.gutenberg.org/2009/agents/2046
+    wikipedia: http://en.wikipedia.org/wiki/Josiah_Gilbert_Holland
+description: ''
+gutenberg_issued: '2020-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kathrina—A Poem
+url: http://www.gutenberg.org/ebooks/63423
